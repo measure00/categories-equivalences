@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Содержание.md",
-                "mode": "preview",
+                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Содержание.md",
+                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Содержание.md",
+                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Содержание.md"
+                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md"
               }
             }
           }
@@ -298,7 +298,7 @@
         "direction": "vertical",
         "x": 812,
         "y": 0,
-        "width": 724,
+        "width": 727,
         "height": 824,
         "maximize": false,
         "zoom": 0
@@ -307,15 +307,15 @@
   },
   "active": "9733afc20e8dfb62",
   "lastOpenFiles": [
+    "Sections/План определений.md",
     "Sections/Предисловие.md",
-    "Sections/Источники.md",
     "Содержание.md",
     "Sections/Объекты описания.md",
-    "Sections/План определений.md",
-    "Слабая.md",
-    "Sections/Определения/Сильная гомотопическая эквивалентность.md",
-    "Sections/Определения/Сильная эквивалентность.md",
+    "Sections/Источники.md",
+    "Sections/Замечания.md",
+    "Sections/Определения/Эквивалентность.md",
     "Sections/Определения/Сопряжение.md",
-    "Sections/Определения/Когерентность.md"
+    "Sections/Определения/Слабая эквивалентность.md",
+    "Sections/Определения/Сильная эквивалентность.md"
   ]
 }
