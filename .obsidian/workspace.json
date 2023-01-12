@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "5b09ba81b9954bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c6aa7260c3333b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc39f2d5c0f4a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/План определений.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8197dc25c7270e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/Определения/Гомотопическая эквивалентность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "013b938401686531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Содержание.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9733afc20e8dfb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Содержание.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4ae923165bb912d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/Определения/Сопряжение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8435e3c18c1e9a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/Определения/Эквивалентность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbb33f7de57949f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/Определения/Сильная эквивалентность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57ba09d9b7646c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/Источники.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaad69ed21fb7f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/План определений.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce4be366b9baf046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/Определения/Слабая эквивалентность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d19dd1dbc45f437d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c79b1beebff76db6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdff5c4b7a6cb7ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "429970bd4b598817",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbd564739ab12ea5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8e604de61482a535",
+    "type": "split",
+    "children": [
+      {
+        "id": "36840c20106f6485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe9ae1bc86f63a7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Содержание.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c32375819ac26f17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Содержание.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04c50deae48c6cd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abc1933c369472f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Содержание.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "559cb1af4bc09e47",
+    "type": "floating",
+    "children": [
+      {
+        "id": "485abf7fa5546f6d",
+        "type": "window",
+        "children": [
+          {
+            "id": "35954cdc8776fbe6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb7dc1ae11feb055",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Содержание.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "64411456169102ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sections/Объекты описания.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 812,
+        "y": 0,
+        "width": 724,
+        "height": 824,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9733afc20e8dfb62",
+  "lastOpenFiles": [
+    "Sections/Предисловие.md",
+    "Sections/Источники.md",
+    "Содержание.md",
+    "Sections/Объекты описания.md",
+    "Sections/План определений.md",
+    "Слабая.md",
+    "Sections/Определения/Сильная гомотопическая эквивалентность.md",
+    "Sections/Определения/Сильная эквивалентность.md",
+    "Sections/Определения/Сопряжение.md",
+    "Sections/Определения/Когерентность.md"
+  ]
+}
