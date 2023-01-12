@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md",
+                "file": "Sections/План определений.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md",
+                "file": "Sections/План определений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md",
+                "file": "Sections/План определений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sections/Определения/Сильная гомотопическая эквивалентность.md"
+                "file": "Sections/План определений.md"
               }
             }
           }
@@ -255,67 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "559cb1af4bc09e47",
-    "type": "floating",
-    "children": [
-      {
-        "id": "485abf7fa5546f6d",
-        "type": "window",
-        "children": [
-          {
-            "id": "35954cdc8776fbe6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eb7dc1ae11feb055",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Содержание.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "64411456169102ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sections/Объекты описания.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 812,
-        "y": 0,
-        "width": 727,
-        "height": 824,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "9733afc20e8dfb62",
   "lastOpenFiles": [
+    "Содержание.md",
+    "Diagrams/Equivalence_relationships.png",
     "Sections/План определений.md",
+    "Sections/Определения/Сильная гомотопическая эквивалентность.md",
     "Sections/Определения/Сопряжение.md",
     "Sections/Источники.md",
     "Sections/Замечания.md",
     "Sections/Определения/Когерентность.md",
-    "Sections/Определения/Сильная гомотопическая эквивалентность.md",
     "Sections/Предисловие.md",
-    "Содержание.md",
-    "Sections/Объекты описания.md",
-    "Sections/Определения/Эквивалентность.md"
+    "Sections/Объекты описания.md"
   ]
 }
